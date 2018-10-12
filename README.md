@@ -1,19 +1,19 @@
 # Disaster Prediction and Management - A CodeFunDo++ Challenge
 
-As the name suggests, Natural Disasters are inevitable in our world. Thousands of poor lives are taken by Natural Disasters every year. The idea of "preventing" natural disasters is somewhat impossible to achieve. However, with advancement of technology, Prediction and Management of Natural Disasters are made possible. In our project, we will highly focus on Natural Disaster Prediction, and provide some valuable ideas and implemenations on Disaster Management as well.
+Natural Disasters are inevitable in our world. Thousands of poor lives are taken by Natural Disasters every year. The idea of "preventing" natural disasters is somewhat impossible to achieve. However, with advancement of technology, Prediction and Management of Natural Disasters are made possible. In our project, we will highly focus on Natural Disaster Prediction, and provide some valuable implemenations on Disaster Management also.
 
 ## 1. Natural Disaster Prediction ::
 
-### a) Prediction of Earthquakes in South-East Asian regions
+### a) Earthquake Prediction in South-East Asian regions
 
-From the previous 3 years, India and subcontinental regions like Pakistan, Afghanistan, China etc. are sufferring from frequent earthquakes. Suddenly, Earthquake Prediction became a necessity in these regions. In this model, we are taking a Dataset from [Incorporated Research Institutions for Seismology](http://ds.iris.edu/ds/), which contains 30000 earthquake instances for India and Surrounding regions from year 2015 to end of 2017. The dataset contains 
+From the previous 3 years, India and surrounding regions are sufferring from frequent earthquakes. Suddenly, Earthquake Prediction became necessary in these regions. In this model, we are taking a Dataset from [Incorporated Research Institutions for Seismology](http://ds.iris.edu/ds/), which contains 30000 earthquake instances for India and Surrounding regions from year 2015 to end of 2017. The dataset contains 
 - Latitude, Longitude value
-- Timestamp for the earthquake
-- Region of the earthquake
+- Timestamp
+- Region
 - Magnitude in Richter Scale
 - Depth of the epicenter
 
-We will use these past earthquake data to predict future earthquakes in these regions. The models for this prediction will be based on **Recurrent Neural Networks**. With the help of State-of-the-art Feature Selection algortihm and Deep Neural Network, we are hoping to get a moderately high accuracy with the prediction datasets.
+We will use past earthquake data to predict future earthquake. The models for this prediction will be based on **Recurrent Neural Networks and LSTM Cells**. With the help of Feature Selection algortihm and Deep Neural Network on the data, we are hoping to get a moderately high accuracy with the prediction datasets.
 
 ### b) Disaster Forecasting of the world
 
