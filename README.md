@@ -4,7 +4,7 @@
 
 As the name suggests, Natural Disasters are inevitable in our world. Thousands of poor lives are taken by Natural Disasters every year. Natural disasters include but are not limited to hurricanes, earthquakes, forest fires, tornados, droughts, floods, volcanic eruptions, and tsunamis. They have occurred and will continue to cause problems.
 
-The idea of "preventing" natural disasters is somewhat impossible to achieve. However, with advancement of technology, Prediction and Management of Natural Disasters are made possible. In our project, we will highly focus on Natural Disaster Prediction, and provide some valuable ideas and implemenations on Disaster Management as well. The proposals are as follows :
+The idea of "preventing" natural disasters is somewhat impossible to achieve. However, with advancement of technology, Prediction and Management of Natural Disasters are made possible. In our project, we will highly focus on Natural Disaster Prediction by building State-of-the-art Deep Learning models. The proposals are as follows :
 
 ## How It Works
 
