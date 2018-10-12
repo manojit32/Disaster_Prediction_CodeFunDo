@@ -1,4 +1,4 @@
-# Disaster Prediction and Management - A CodeFunDo++ Challenge
+# Disaster Prediction - A CodeFunDo++ Challenge
 
 As the name suggests, Natural Disasters are inevitable in our world. Thousands of poor lives are taken by Natural Disasters every year. Natural disasters include but are not limited to hurricanes, earthquakes, forest fires, tornados, droughts, floods, volcanic eruptions, and tsunamis. They have occurred and will continue to cause problems.
 
