@@ -8,7 +8,7 @@ The idea of "preventing" natural disasters is somewhat impossible to achieve. Ho
 
 ### a) Prediction of Earthquakes in South-East Asian regions
 
-From the previous 3 years, India and subcontinental regions like Pakistan, Afghanistan, China etc. are sufferring from frequent earthquakes. Suddenly, Earthquake Prediction became a necessity in these regions. In this model, we are taking a Dataset from [Incorporated Research Institutions for Seismology], which contains 30000 earthquake instances for India and Surrounding regions from year 2015 to end of 2017. The dataset contains
+From the previous 3 years, India and subcontinental regions like Pakistan, Afghanistan, China etc. are sufferring from frequent earthquakes. Suddenly, Earthquake Prediction became a necessity in these regions. In this model, we are taking a Dataset from [Incorporated Research Institutions for Seismology](http://ds.iris.edu/ds/), which contains 30000 earthquake instances for India and Surrounding regions from year 2015 to end of 2017. The dataset contains
 
 - Latitude, Longitude value
 - Timestamp for the earthquake
