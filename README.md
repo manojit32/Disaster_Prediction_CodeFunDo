@@ -8,7 +8,7 @@ The idea of "preventing" natural disasters is somewhat impossible to achieve. Ho
 
 ## How It Works
 
-### a) Prediction of Earthquakes in South-East Asian regions
+### a) Prediction of Earthquakes in South-East Asian Regions
 
 From the previous 3 years, India and subcontinental regions like Pakistan, Afghanistan, China etc. are sufferring from frequent earthquakes. Suddenly, Earthquake Prediction became a necessity in these regions. In this model, we are taking a Dataset from [Incorporated Research Institutions for Seismology](http://ds.iris.edu/ds/), which contains 30000 earthquake instances for India and Surrounding regions from year 2015 to end of 2017. The dataset contains
 
@@ -20,7 +20,7 @@ From the previous 3 years, India and subcontinental regions like Pakistan, Afgha
 
 We will use these past earthquake data to predict future earthquakes in these regions. The models for this prediction will be based on **Recurrent Neural Networks with Long Short Term Memory cells (LSTM Cells)**. With the help of State-of-the-art Feature Selection algortihm and Deep Neural Network, we are hoping to get a moderately high accuracy for the prediction datasets that will arrive after the model creation.
 
-### b) Disaster Forecasting of the world
+### b) Disaster Forecasting of the World
 
 Planning and budgeting for disaster responses in the coming years requires some guess at what to expect as far as numbers and types of disasters and the number of people affected by those disasters. To help in that effort, this model will look at Historical Disaster data from the last 35 years and attempt to estimate expectations in the next five years. The dataset is taken from **Centre for Research on Epidemiology of Disasters (CRED)** publicly accessible database on emergency events. The **EM-DAT(Emergency Events Database)** contains data on natural and technological disasters from 1900 to 2015. We will only take data from 1980 to 2015, because previous data is very noisy. The dataset contains -
 
@@ -37,7 +37,7 @@ We will use these past historical disaster data to create a model to forecast di
 
 Government and Non-Government organizations, Natural Disaster Management Authorities will use the web based machine learning model to put up new data to generate Model Predictions on Earthquakes and number forecasts for future disasters.
 
-## Dataset Used 
+## Datasets Used 
 
 - [Incorporated Research Institutions for Seismology](http://ds.iris.edu/ds/)
 - [The International Disaster Database](https://www.emdat.be/)
