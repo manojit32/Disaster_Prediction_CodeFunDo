@@ -39,13 +39,15 @@ Government and Non-Government organizations, Natural Disaster Management Authori
 
 ## Dataset Used 
 
-[Incorporated Research Institutions for Seismology](http://ds.iris.edu/ds/)
-[The International Disaster Database](https://www.emdat.be/)
+- [Incorporated Research Institutions for Seismology](http://ds.iris.edu/ds/)
+- [The International Disaster Database](https://www.emdat.be/)
 
 ## Technology Stack
 
 - Python
 - CNTK Library, Keras, Tensorflow, Pandas
 - Data Visualization tools - Matplotlib, Seaborn
+- HTML
+- CSS
 - JavaScript
 
