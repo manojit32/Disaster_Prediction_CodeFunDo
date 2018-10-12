@@ -1,8 +1,10 @@
 # Disaster Prediction and Management - A CodeFunDo++ Challenge
 
-Natural Disasters are inevitable in our world. Thousands of poor lives are taken by Natural Disasters every year. The idea of "preventing" natural disasters is somewhat impossible to achieve. However, with advancement of technology, Prediction and Management of Natural Disasters are made possible. In our project, we will highly focus on Natural Disaster Prediction, and provide some valuable implemenations on Disaster Management also.
+## 1. Our Plan ::
 
-## 1. Natural Disaster Prediction ::
+Natural Disasters are inevitable in our world. The idea of "preventing" natural disasters is somewhat impossible to achieve. However, with advancement of technology, Prediction and Management of Natural Disasters are made possible. In our project, we will highly focus on Natural Disaster Prediction, and provide some valuable implemenations on Disaster Management also.
+
+## 2. How It Works::
 
 ### a) Earthquake Prediction in South-East Asian regions
 
