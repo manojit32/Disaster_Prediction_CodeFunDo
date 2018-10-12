@@ -28,3 +28,6 @@ Planning and budgeting for disaster responses in the coming years requires some 
 - Total damage
 
 We will use these past historical disaster data to create a model to forecast disaster data for coming 5 years. The model we will use for forecasting **Total Damage** and **Total Affected** is a **Moving Average Model**, which will predict numbers for next 5 years. It will be very helpful for planning for disaster responses in the coming years. 
+
+## c) Disaster Management Using IoT
+
