@@ -1,10 +1,12 @@
 # Disaster Prediction - A CodeFunDo++ Challenge
 
+## Our Plan
+
 As the name suggests, Natural Disasters are inevitable in our world. Thousands of poor lives are taken by Natural Disasters every year. Natural disasters include but are not limited to hurricanes, earthquakes, forest fires, tornados, droughts, floods, volcanic eruptions, and tsunamis. They have occurred and will continue to cause problems.
 
 The idea of "preventing" natural disasters is somewhat impossible to achieve. However, with advancement of technology, Prediction and Management of Natural Disasters are made possible. In our project, we will highly focus on Natural Disaster Prediction, and provide some valuable ideas and implemenations on Disaster Management as well. The proposals are as follows :
 
-## 1. Natural Disaster Prediction
+## How It Works
 
 ### a) Prediction of Earthquakes in South-East Asian regions
 
@@ -30,3 +32,20 @@ Planning and budgeting for disaster responses in the coming years requires some 
 - Total damage
 
 We will use these past historical disaster data to create a model to forecast disaster data for coming 5 years. The model we will use for forecasting Total Damage and Total Affected is a Moving Average Model, which will predict numbers for next 5 years. It will be very helpful for planning for disaster responses in the coming years.
+
+## User Interaction with the Project
+
+Government and Non-Government organizations, Natural Disaster Management Authorities will use the web based machine learning model to put up new data to generate Model Predictions on Earthquakes and number forecasts for future disasters.
+
+## Dataset Used 
+
+[Incorporated Research Institutions for Seismology](http://ds.iris.edu/ds/)
+[The International Disaster Database](https://www.emdat.be/)
+
+## Technology Stack
+
+- Python
+- CNTK Library, Keras, Tensorflow, Pandas
+- Data Visualization tools - Matplotlib, Seaborn
+- JavaScript
+
